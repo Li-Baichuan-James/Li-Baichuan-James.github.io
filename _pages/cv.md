@@ -11,54 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Eng. in Computer Engineering, Hong Kong University of Science and Technology (HKUST), 2028 (Expected)
+  * CGA: 4.141/4.3 (Top 1%)
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **AutoTour: Automatic Photo Tour Guide with Smartphones and LLMs**
+  * An automatic photo tour guide system leveraging smartphones and LLMs.
+  * [[arXiv]](https://arxiv.org/abs/2601.06781)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **MMRouter: A Routing Mechanism for Multi-Modal Input Queries**
+  * A routing mechanism for multi-modal input queries achieving optimal cost-performance tradeoff in model selection.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Projects
+======
+* **挪啦 (NuoLa)** – A Flutter app for critical SMS detection and real-time alert triggering. Deployed on China's major Android app stores.
+* **VocabuStory** – An LLM-powered Flutter app that improves language learning efficiency through customized narrative generation.
+
+Awards & Achievements
+======
+* SENG Dean's List, HKUST (Fall 2024)
+* SENG Dean's List, HKUST (Spring 2025)
+* SENG Dean's List, HKUST (Fall 2025)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C++, Dart, JavaScript
+* ML & Data Tools: NumPy, Pandas, PyTorch, Matplotlib
+* Frameworks & Platforms: Flutter, Linux, Full-stack development
+
+Relevant Coursework
+======
+* COMP1021: Introduction to Python (A+)
+* COMP2011: C++ Programming (A)
+* COMP2012: OOP and Data Structure (A)
+* COMP2211: Exploring AI with Python (A)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Service & Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Engineering Student Ambassador, HKUST
+* Undergraduate Teaching Assistant (UGTA), COMP1023, HKUST

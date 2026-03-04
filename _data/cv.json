@@ -1,152 +1,101 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "LI Baichuan",
+    "email": "blicb@connect.ust.hk",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://li-baichuan-james.github.io/baichuan.github.io",
+    "summary": "Year 2 Computer Engineering student at HKUST with CGA 4.141/4.3 (Top 1%). Interested in AI, LLMs, and mobile development.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Hong Kong",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Li-Baichuan-James",
+        "url": "https://github.com/Li-Baichuan-James"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Hong Kong University of Science and Technology (HKUST)",
+      "area": "B.Eng. in Computer Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "startDate": "2024",
+      "endDate": "2028 (Expected)",
+      "gpa": "4.141/4.3 (Top 1%)",
+      "courses": [
+        "COMP1021: Introduction to Python (A+)",
+        "COMP2011: C++ Programming (A)",
+        "COMP2012: OOP and Data Structure (A)",
+        "COMP2211: Exploring AI with Python (A)"
+      ]
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["Python", "C++", "Dart", "JavaScript"]
+    },
+    {
+      "name": "ML & Data Tools",
+      "level": "",
+      "keywords": ["NumPy", "Pandas", "PyTorch", "Matplotlib"]
+    },
+    {
+      "name": "Frameworks & Platforms",
+      "level": "",
+      "keywords": ["Flutter", "Linux", "Full-stack development"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "AutoTour: Automatic Photo Tour Guide with Smartphones and LLMs",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2026-01-01",
+      "website": "https://arxiv.org/abs/2601.06781",
+      "summary": "An automatic photo tour guide system leveraging smartphones and large language models."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "MMRouter: A Routing Mechanism for Multi-Modal Input Queries",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "A routing mechanism for multi-modal input queries that achieves optimal cost-performance tradeoff in model selection."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "COMP1023",
+      "institution": "HKUST, Department of Computer Science and Engineering",
+      "date": "2024-01-01",
+      "role": "Undergraduate Teaching Assistant (UGTA)",
       "description": ""
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "挪啦 (NuoLa)",
       "category": "portfolio",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "A Flutter app for critical SMS detection and real-time alert triggering. Deployed on China's major Android app galleries and market-ready."
+    },
+    {
+      "name": "VocabuStory",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "An LLM-powered Flutter application that improves language learning efficiency through customized narrative generation."
     }
   ]
 }
