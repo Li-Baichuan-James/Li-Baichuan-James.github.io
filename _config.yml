@@ -23,11 +23,11 @@ repository               : "Li-Baichuan-James/baichuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portrait.jpg"
   name             : "LI Baichuan"
   pronouns         : # example: "she/her"  
-  bio              : "Year 2 Computer Engineering student at HKUST. CGA: 4.141/4.3 (Top 1%). Interested in AI, LLMs, and mobile development."
-  location         : "Hong Kong"
+  bio              : "Year 2 Computer Engineering student at HKUST. Interested in Robotics, LLMs, and mobile development."
+  location         : "Nanjing, China"
   employer         : "HKUST"
   uri              : # URL
   email            : "blicb@connect.ust.hk" 
