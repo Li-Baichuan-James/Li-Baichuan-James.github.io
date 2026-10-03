@@ -230,17 +230,23 @@ code {
   min-height: 55px;
 }
 
-.site-mark {
+.site-brand {
   display: inline-flex;
   align-items: center;
   flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  padding: 12px 0;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
   color: var(--deep-teal);
-  font-size: 16px;
+  font-size: clamp(14px, 2vw, 16px);
   font-weight: 800;
   white-space: nowrap;
 }
 
-.site-mark:hover {
+.site-brand:hover {
   color: var(--coral);
   text-decoration: none;
 }
