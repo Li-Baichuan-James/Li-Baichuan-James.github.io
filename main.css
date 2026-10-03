@@ -233,22 +233,16 @@ code {
 .site-mark {
   display: inline-flex;
   align-items: center;
-  justify-content: center;
-  width: 34px;
-  height: 34px;
   flex: 0 0 auto;
-  color: #fff;
-  background: var(--deep-teal);
-  border-radius: 50%;
-  font-size: 12px;
+  color: var(--deep-teal);
+  font-size: 16px;
   font-weight: 800;
-  letter-spacing: 0.04em;
+  white-space: nowrap;
 }
 
 .site-mark:hover {
-  color: #fff;
+  color: var(--coral);
   text-decoration: none;
-  background: var(--coral);
 }
 
 .site-nav {
@@ -257,7 +251,7 @@ code {
   justify-content: center;
   gap: 24px;
   width: 100%;
-  padding-left: 48px;
+  padding-left: 24px;
 }
 
 .site-nav a {
