@@ -676,23 +676,11 @@ code {
 
 .award-row {
   display: grid;
-  grid-template-columns: 42px minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr);
   gap: 14px;
   align-items: start;
   padding: 18px 0;
   border-bottom: 1px solid var(--line);
-}
-
-.award-symbol {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 34px;
-  height: 34px;
-  color: var(--gold);
-  background: #fbf3df;
-  border: 1px solid #e4c98c;
-  border-radius: 50%;
 }
 
 .award-row h3 {
@@ -789,20 +777,6 @@ code {
 
 .service-list strong {
   color: var(--ink);
-}
-
-.service-bullet {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 30px;
-  height: 30px;
-  flex: 0 0 auto;
-  color: var(--teal);
-  background: #e5f1ef;
-  border: 1px solid #a8cfca;
-  border-radius: 50%;
-  font-size: 13px;
 }
 
 .site-footer {
