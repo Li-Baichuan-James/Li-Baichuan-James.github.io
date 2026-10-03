@@ -627,6 +627,12 @@ code {
   object-fit: contain;
 }
 
+/* Keep the portrait preview frame flush with the image at its height limit. */
+.work-visual.work-visual-nuola {
+  width: min(100%, 308px);
+  justify-self: center;
+}
+
 .publication-content,
 .project-content {
   min-width: 0;
